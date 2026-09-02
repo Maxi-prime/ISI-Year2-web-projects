@@ -1,20 +1,20 @@
-# 💻 Projets & Exercices — 2ᵉ Année Génie Logiciel
+# 💻 Software Engineering — 2nd Year Projects & Exercises
 
-Bienvenue sur mon repository GitHub 👋
+Welcome to my GitHub repository 👋
 
-Ce dépôt regroupe l'ensemble de mes **projets, exercices, travaux pratiques et expérimentations réalisés durant ma 2ᵉ année de formation en Génie Logiciel à l'**ISI Keur Massar**.
+This repository contains a collection of my **projects, exercises, practical assignments, and programming experiments completed during my second year of Software Engineering studies at ISI Keur Massar**.
 
-L'objectif de ce repository est de conserver une trace de mon apprentissage, de mes réalisations et de mon évolution dans le développement logiciel.
+The main purpose of this repository is to document my learning journey, showcase my practical work, and track my progress as I develop my skills in software development.
 
 ---
 
-## 👨‍💻 À propos
+## 👨‍💻 About Me
 
-Je suis étudiant en **Génie Logiciel à l'ISI Keur Massar**.
+I am a **Software Engineering student at ISI Keur Massar**, currently in my **second year** of study.
 
-Au cours de cette deuxième année, j'ai travaillé sur différents exercices et projets permettant de renforcer mes compétences en programmation, algorithmique, programmation orientée objet, gestion des données et conception d'applications.
+Throughout this academic year, I have worked on various exercises, practical assignments, and projects designed to strengthen my knowledge of programming, algorithms, object-oriented programming, databases, and software development.
 
-Ce repository contient principalement des travaux réalisés avec :
+This repository mainly focuses on projects and exercises developed using:
 
 * 🐍 **Python**
 * ⚡ **C++**
@@ -22,186 +22,245 @@ Ce repository contient principalement des travaux réalisés avec :
 
 ---
 
-## 📚 Contenu du repository
+## 📚 Repository Content
 
-Le repository est organisé par langage et par type de travail afin de faciliter la navigation.
+The repository is organized by programming language and type of work to make it easy to navigate.
 
 ```text
-📦 projets-2eme-annee-genie-logiciel
+📦 software-engineering-2nd-year
 │
 ├── 🐍 Python/
-│   ├── Exercices/
-│   ├── Travaux_Pratiques/
-│   └── Projets/
+│   ├── Exercises/
+│   ├── Practical_Work/
+│   └── Projects/
 │
 ├── ⚡ C++/
-│   ├── Exercices/
-│   ├── Travaux_Pratiques/
-│   └── Projets/
+│   ├── Exercises/
+│   ├── Practical_Work/
+│   └── Projects/
 │
 ├── ☕ Java/
-│   ├── Exercices/
-│   ├── Travaux_Pratiques/
-│   └── Projets/
+│   ├── Exercises/
+│   ├── Practical_Work/
+│   └── Projects/
 │
 └── README.md
 ```
 
-> L'organisation peut évoluer au fur et à mesure que de nouveaux projets et exercices seront ajoutés.
+> The structure of this repository may evolve as new projects and exercises are added.
 
 ---
 
 ## 🐍 Python
 
-Les travaux Python permettent notamment de pratiquer :
+The Python section contains exercises and projects covering different programming concepts, including:
 
-* Les variables et types de données
-* Les conditions
-* Les boucles
-* Les fonctions
-* Les listes, tuples, dictionnaires et ensembles
-* La programmation orientée objet
-* La manipulation de fichiers
-* Les exceptions
-* Les modules et packages
-* Les algorithmes
-* La résolution de problèmes
+* Variables and data types
+* Conditional statements
+* Loops
+* Functions
+* Lists, tuples, dictionaries, and sets
+* Object-Oriented Programming
+* File handling
+* Exception handling
+* Modules and packages
+* Algorithms
+* Problem solving
+* Small practical applications
+
+These exercises help develop programming fundamentals and improve logical thinking and problem-solving skills.
 
 ---
 
 ## ⚡ C++
 
-Les exercices et projets C++ permettent de travailler sur :
+The C++ section contains exercises and practical work focused on programming fundamentals and Object-Oriented Programming.
 
-* Les bases du langage C++
-* Les conditions et boucles
-* Les fonctions
-* Les tableaux
-* Les pointeurs
-* Les structures
-* La programmation orientée objet
-* Les classes et objets
-* L'héritage
-* Les structures de données
-* Les algorithmes
+Topics include:
+
+* C++ syntax and fundamentals
+* Variables and data types
+* Conditions and loops
+* Functions
+* Arrays
+* Pointers
+* Structures
+* Classes and objects
+* Encapsulation
+* Data structures
+* Algorithms
+* Problem solving
 
 ---
 
 ## ☕ Java
 
-La partie Java contient différents exercices et projets autour de :
+The Java section contains several exercises and projects developed during my Software Engineering studies.
 
-* La syntaxe Java
-* La programmation orientée objet
-* Les classes et objets
-* L'encapsulation
-* L'héritage
-* Les interfaces
-* Les collections
-* La gestion des exceptions
-* La manipulation de fichiers
+Main concepts covered include:
+
+* Java fundamentals
+* Object-Oriented Programming
+* Classes and objects
+* Encapsulation
+* Inheritance
+* Interfaces
+* Collections
+* Exception handling
+* File management
+* Database connectivity
 * JDBC
-* La connexion aux bases de données
-* La conception d'applications Java
+* MySQL
+* Application development
+
+Some Java projects also involve connecting applications to databases using **JDBC and MySQL**.
 
 ---
 
-## 🎯 Objectifs
+## 🗄️ Database & JDBC
 
-À travers ces différents travaux, mes principaux objectifs sont de :
+Some of my projects involve database management and application persistence.
 
-* 🧠 Améliorer ma logique et ma capacité à résoudre des problèmes
-* 💻 Renforcer mes compétences en programmation
-* 🏗️ Apprendre à concevoir des applications structurées
-* 🔄 Comprendre et appliquer la programmation orientée objet
-* 🗄️ Apprendre à manipuler et connecter des bases de données
-* 🧪 Expérimenter différentes approches de développement
-* 📈 Suivre mon évolution dans le domaine du Génie Logiciel
-* 🚀 Construire progressivement un portfolio de projets
+Technologies and concepts include:
 
----
+* MySQL
+* Database design
+* SQL
+* CRUD operations
+* Relational databases
+* JDBC
+* Java ↔ MySQL connectivity
+* Data persistence
 
-## 🛠️ Technologies utilisées
-
-| Technologie | Utilisation                                   |
-| ----------- | --------------------------------------------- |
-| 🐍 Python   | Programmation, algorithmique et projets       |
-| ⚡ C++       | Algorithmique et programmation orientée objet |
-| ☕ Java      | POO, applications et projets                  |
-| 🗄️ MySQL   | Gestion de bases de données                   |
-| 🔗 JDBC     | Connexion Java ↔ Base de données              |
-| 🌱 Git      | Gestion des versions                          |
-| 🐙 GitHub   | Hébergement et partage des projets            |
+These projects allow me to understand how software applications interact with databases and manage persistent data.
 
 ---
 
-## 📁 Projets
+## 🎯 Learning Objectives
 
-Chaque projet important possède, lorsque cela est nécessaire, son propre fichier `README.md` contenant :
+Through these projects and exercises, my main objectives are to:
 
-* 📌 La présentation du projet
-* 🎯 Les objectifs
-* 🛠️ Les technologies utilisées
-* ⚙️ Les fonctionnalités
-* 🚀 Les instructions d'installation
-* ▶️ Les instructions d'exécution
-* 📸 Des captures d'écran
-* 📝 Des informations complémentaires
-
----
-
-## 📈 Mon évolution
-
-Ce repository représente une partie de mon parcours d'apprentissage en **Génie Logiciel**.
-
-Les premiers exercices peuvent être relativement simples, tandis que les projets plus récents sont progressivement plus complets et structurés.
-
-L'objectif est de continuer à enrichir ce repository avec de nouveaux projets afin de développer mes compétences et de construire un portfolio professionnel.
+* 🧠 Improve my logical thinking and problem-solving abilities
+* 💻 Strengthen my programming skills
+* 🏗️ Learn how to design and structure software applications
+* 🔄 Understand and apply Object-Oriented Programming principles
+* 🗄️ Learn how to work with relational databases
+* 🔗 Connect applications to databases
+* 🧪 Experiment with different programming techniques
+* 📈 Track my progress as a Software Engineering student
+* 🚀 Build a strong portfolio of academic and personal projects
+* 🤝 Improve my ability to write clean and maintainable code
 
 ---
 
-## 🎓 Formation
+## 🛠️ Technologies & Tools
+
+| Technology / Tool          | Purpose                                |
+| -------------------------- | -------------------------------------- |
+| 🐍 Python                  | Programming, algorithms & applications |
+| ⚡ C++                      | Programming, algorithms & OOP          |
+| ☕ Java                     | OOP, applications & projects           |
+| 🗄️ MySQL                  | Database management                    |
+| 🔗 JDBC                    | Java database connectivity             |
+| 🌱 Git                     | Version control                        |
+| 🐙 GitHub                  | Code hosting & collaboration           |
+| 💻 IntelliJ IDEA / Eclipse | Java development                       |
+| 📝 Visual Studio Code      | Development & coding                   |
+
+---
+
+## 📂 Projects
+
+Each major project may contain its own `README.md` file with detailed information such as:
+
+* 📌 Project description
+* 🎯 Objectives
+* 🛠️ Technologies used
+* ⚙️ Features
+* 🏗️ Project architecture
+* 📊 UML diagrams
+* 🗄️ Database structure
+* 🚀 Installation instructions
+* ▶️ How to run the project
+* 📸 Screenshots
+* 📝 Additional documentation
+
+This structure makes each project easier to understand and reproduce.
+
+---
+
+## 📊 My Learning Journey
+
+This repository represents an important part of my journey in **Software Engineering**.
+
+The exercises and projects range from simple programming challenges to more structured applications involving Object-Oriented Programming, databases, and software architecture.
+
+As I continue learning, I will regularly update this repository with new projects and experiments.
+
+My goal is to continuously improve my:
+
+* Programming skills
+* Problem-solving abilities
+* Software design skills
+* Database knowledge
+* Git and GitHub workflow
+* Code quality
+* Project organization
+
+---
+
+## 🎓 Education
 
 **ISI Keur Massar — Institut Supérieur d'Informatique**
 
-🎓 Formation : **Génie Logiciel**
-📚 Niveau : **2ᵉ année**
+**Program:** Software Engineering
+**Level:** 2nd Year
 
 ---
 
-## 🚀 Prochaines étapes
+## 🚀 Future Goals
 
-Je souhaite continuer à développer mes compétences dans plusieurs domaines :
+As I continue my Software Engineering journey, I aim to expand my knowledge in several areas, including:
 
-* 🌐 Développement Web
-* 📱 Développement d'applications
-* 🗄️ Bases de données
-* ☁️ Cloud & DevOps
-* 🔐 Sécurité informatique
-* 🤖 Intelligence artificielle
-* 🏗️ Architecture logicielle
-* 📦 Développement de projets plus complexes
+* 🌐 Web Development
+* 📱 Mobile Application Development
+* 🗄️ Advanced Database Systems
+* ☁️ Cloud Computing
+* 🔧 DevOps
+* 🔐 Cybersecurity
+* 🤖 Artificial Intelligence
+* 🏗️ Software Architecture
+* 📦 Large-scale Application Development
+* 🔄 Software Testing & Continuous Integration
 
----
-
-## 📌 Remarque
-
-Les projets et exercices présents dans ce repository sont principalement réalisés dans un **cadre académique et d'apprentissage**.
-
-Ils témoignent de mon parcours, de mes expérimentations et de ma progression dans le domaine du développement logiciel.
+I also plan to work on more personal and professional projects to build a strong portfolio and gain real-world development experience.
 
 ---
 
-## ⭐ Merci
+## 📌 Disclaimer
 
-Merci d'avoir visité mon repository !
+Most of the projects and exercises in this repository were developed as part of my **academic learning and personal practice**.
 
-N'hésitez pas à explorer les différents dossiers et projets pour découvrir mon travail.
+They represent my learning process, experiments, and progress throughout my second year of Software Engineering.
 
-**Learning • Coding • Building • Improving 🚀**
+The code may continue to be improved and refactored as I gain more experience.
 
 ---
 
-### 👨‍💻 Génie Logiciel — ISI Keur Massar
+## ⭐ Thank You
 
-> *« Chaque ligne de code est une étape de plus vers la maîtrise du développement logiciel. »*
+Thank you for visiting my repository!
+
+Feel free to explore the different folders and projects to discover my work and follow my progress as I continue developing my software engineering skills.
+
+If you find something interesting, feel free to ⭐ **star the repository**.
+
+---
+
+## 👨‍💻 Software Engineering Student
+
+**ISI Keur Massar — 2nd Year**
+
+> *Learn. Code. Build. Improve. 🚀*
+
+---
